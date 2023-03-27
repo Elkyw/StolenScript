@@ -1,0 +1,7 @@
+let a = 1
+let b = 1
+FOR c in range(1, 10):
+print a,
+let n = a + b
+let a = b
+let b = n
