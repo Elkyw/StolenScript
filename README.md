@@ -1,6 +1,6 @@
 <p align="center" >
     <br>
-    <img src="https://raw.githubusercontent.com/Elkyw/fictional-umbrella/main/logo.png" width="550">
+    <img src="https://raw.github" width="550">
     
 <br>    
 </p>
