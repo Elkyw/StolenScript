@@ -1,3 +1,4 @@
+#!/usr/bin/StolenScript
 # Variables
 let alfa = 100
 let sigma = "two"

@@ -1,3 +1,4 @@
+#!/usr/bin/StolenScript
 # Get A Number
 write("Enter the number of side of square: ")
 let number = input_int()

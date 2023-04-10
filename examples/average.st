@@ -1,3 +1,4 @@
+#!/usr/bin/StolenScript
 write ("How many numbers would you like to average:")
 let deno = input_int()
 write ("Enter any numbers")

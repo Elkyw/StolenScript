@@ -1,3 +1,4 @@
+#!/usr/bin/StolenScript
 # Get A Number
 write("Enter the number: ")
 let num = input_int()

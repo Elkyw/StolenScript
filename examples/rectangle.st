@@ -1,7 +1,8 @@
+#!/usr/bin/StolenScript
 # This program calculates the perimeter and area of a rectangle
-write ("")
-write ("Calculate information about a rectangle")
-write ("length:")
+write("")
+write("Calculate information about a rectangle")
+write("length:")
 let length = input_int()
 write ("width:")
 let width = input_int()

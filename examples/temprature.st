@@ -1,3 +1,4 @@
+#!/usr/bin/StolenScript
 # Converts Fahrenheit to Celsius
 write ("Fahrenheit temperature :")
 let temp = input_int()

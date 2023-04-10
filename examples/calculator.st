@@ -7,7 +7,7 @@ let num_two = input_int()
 write("")
 
 
-write("let tell me the operation you want to dwo:")
+write("let tell me the operation you want to do:")
 write("")
 
 # write operations
