@@ -1,4 +1,4 @@
-def stwing_with_awwows(text, pos_start, pos_end):
+def string(text, pos_start, pos_end):
     result = ""
 
     # Calculate indices
